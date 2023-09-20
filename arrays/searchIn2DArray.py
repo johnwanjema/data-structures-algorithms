@@ -1,6 +1,6 @@
 def search2DArray(arr,target):
     """
-       Search for an element in a 2d array
+      Search for an element in a 2d array
     """
 
     #if array length equals zero
