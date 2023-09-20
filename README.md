@@ -1,4 +1,4 @@
 # Data structures and Algorithms
 
 
-<img src="/assests/meme.jpeg" alt="meme" width="200" align='centre'/>
+<img src="/assests/meme.jpeg" alt="meme" width="400" align='centre'/>
