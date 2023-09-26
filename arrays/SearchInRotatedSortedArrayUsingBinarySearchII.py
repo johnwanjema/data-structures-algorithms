@@ -12,6 +12,9 @@
 
 # Input: nums = [4,5,6,7,0,1,2], target = 0
 # Output: 4
+
+
+# Code for sorted array with duplicate values
 class Solution(object):
     def binarySearch(self,start,end, arr,target):
         while start <= end:
