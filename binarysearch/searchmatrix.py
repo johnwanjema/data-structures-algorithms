@@ -1,5 +1,15 @@
 class Solution:
     def searchMatrix(self, matrix, target: int) -> bool:
+
+        # Linear Search
+        # for i in range(len(matrix)):
+        #     for j in range(len(matrix[i])):
+        #         if matrix[i][j] == target:
+        #             return 1
+
+        # return 0
+
+        # Optimized search
         rows = 0
         cols = len(matrix[0]) - 1
 
